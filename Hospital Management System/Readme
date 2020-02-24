@@ -1,0 +1,8 @@
+Hospital mangment system    
+
+• Developed the Hospital mangment system using c proramming.the system can be operated only via Admin username and password.
+    • Admin can access the patients and doctors data from file. he can also add the new patient,new doctor and save this data to the file.
+    • System will automatically calculate  the Bill for patient if he is outptient the bill will only include Consultation charges and lab chages.i
+    • If the patient is inpatient then bill will include Consultation charges,Bed charges,Lab charges.user can book the appointment for Doctor.
+    • Admin can Delete the particular Patient and doctors data from file.
+    • Admin can also search the particular record with the help of patient id or doctors data.
